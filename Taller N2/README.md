@@ -29,4 +29,4 @@ Este taller se centra en la implementación del algoritmo de Kruskal para encont
 
 ### Contacto
 
-Para más información o consultas, puedes contactar a jaime.olguin@usach.cl
+Para más información o consultas, puedes contactar a jaime.riquelme@usach.cl
