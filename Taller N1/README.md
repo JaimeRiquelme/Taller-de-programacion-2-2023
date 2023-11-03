@@ -25,4 +25,4 @@ El taller presenta un algoritmo implementado en C++ que resuelve el juego "Rush 
 
 ### Contacto
 
-Para más información o consultas, puedes contactar a jaime.olguin@usach.cl
+Para más información o consultas, puedes contactar a jaime.riquelme@usach.cl
